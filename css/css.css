@@ -1,12 +1,18 @@
+body
+{
+    background-color:aqua;
+    text-align:start;
+    text-anchor:inherit;
+}
 h1 {
     font-size: 40px;
     text-align: center;
-    background-color:firebrick;
+    background-color:mediumvioletred;
     color: white;
 }
 
 h2
 {
-    color:cadetblue;
-    text-align:center;
+    color:mediumvioletred;
+    text-align:left;
 }
